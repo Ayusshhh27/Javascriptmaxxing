@@ -1,0 +1,18 @@
+div{
+  height: 100px;
+  width: 100px;
+  color: white; 
+  background-color: crimson;
+  border: 1px solid black; 
+  border-radius: 5px; 
+}
+
+.black{
+  background-color: black;
+  color :white;
+}
+
+.white{
+  background-color: bisque;
+  color: black;
+}
